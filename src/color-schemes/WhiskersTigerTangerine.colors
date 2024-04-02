@@ -1,0 +1,138 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=255,243,226
+BackgroundNormal=255,243,226
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[Colors:Complementary]
+BackgroundAlternate=255,243,226
+BackgroundNormal=255,249,240
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[Colors:Header]
+BackgroundAlternate=255,243,226
+BackgroundNormal=255,249,240
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[Colors:Header][Inactive]
+BackgroundAlternate=255, 245, 231
+BackgroundNormal=255, 245, 231
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[Colors:Selection]
+BackgroundAlternate=156,73,1
+BackgroundNormal=193, 93, 1
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=255,252,248
+ForegroundInactive=255,249,240
+ForegroundLink=165,206,255
+ForegroundNegative=255,140,124
+ForegroundNeutral=255,178,108
+ForegroundNormal=255,252,248
+ForegroundPositive=177,227,128
+ForegroundVisited=255,170,245
+
+[Colors:Tooltip]
+BackgroundAlternate=255,243,226
+BackgroundNormal=255,249,240
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[Colors:View]
+BackgroundAlternate=255,243,226
+BackgroundNormal=255,249,240
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[Colors:Window]
+BackgroundAlternate=255,243,226
+BackgroundNormal=255,249,240
+DecorationFocus=193, 93, 1
+DecorationHover=193, 93, 1
+ForegroundActive=193, 93, 1
+ForegroundInactive=134,92,58
+ForegroundLink=82,132,190
+ForegroundNegative=180,58,42
+ForegroundNeutral=193,93,1
+ForegroundNormal=62,25,0
+ForegroundPositive=106,149,52
+ForegroundVisited=125,14,112
+
+[General]
+ColorScheme=BreezeLight
+Name=Whiskers Tiger - Tangerine
+shadeSortColumn=true
+
+[KDE]
+contrast=4
+
+[WM]
+activeBackground=255,249,240
+activeBlend=62,25,0
+activeForeground=62,25,0
+inactiveBackground=255,249,240
+inactiveBlend=62,25,0
+inactiveForeground=62,25,0
