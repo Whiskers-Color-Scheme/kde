@@ -16,8 +16,7 @@
 ```bash
 git clone https://github.com/Whiskers-Color-Scheme/kde;
 cd kde;
-chmod +x install.sh;
-./install.sh;
+sh install.sh;
 ```
 
 - Go to kde settings
